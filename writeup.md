@@ -14,7 +14,7 @@ All answers can be found in the README.md file
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Committing is essentially setting your checkpoint in terms of updating your changes in the program. Pushing adds these changes and checkpoints to the remote repository.]
+[Committing is essentially setting your checkpoint in terms of updating your changes in the program. Pushing adds these changes and checkpoints to the remote repository. These steps are important for saving your progress and also showing your updates for others to see.]
 
 **3. What is a repository and what does it contain?**
 
@@ -34,7 +34,7 @@ All answers can be found in the README.md file
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[I am excited to learn about training AI. I think AI will be very influential in the future and knowing how to train them to serve a specific purpose will be an essential skill. I also think it would be very fun and interesting to build chatbots and those of the like. ]
+[I am excited to learn about training AI. I think AI will be very influential in the future and knowing how to train them to serve a specific purpose will be an essential skill. I also think it would be very fun and interesting to build chatbots and those of the like.]
 
 ---
 
