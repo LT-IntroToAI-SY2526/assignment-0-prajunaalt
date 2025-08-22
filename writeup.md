@@ -34,7 +34,7 @@ All answers can be found in the README.md file
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[I am excited to learn about training AI. I think AI will be very influential in the future and knowing how to train them to serve a specific purpose will be an essential skill. I also think it would be very fun and interesting to build chatbots and those of the like.]
+[I am excited to learn about training AI. I think AI will be very influential in the future and knowing how to train them to serve a specific purpose will be an essential skill. I also think it would be very fun and interesting to build chatbots and those of the like as they're a relatively new advancement.]
 
 ---
 
